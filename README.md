@@ -1,5 +1,4 @@
 # Jenkins
-
 # Jenkins Installation for Redhat: https://www.jenkins.io/doc/book/installing/linux/#red-hat-centos 
 
 #script
